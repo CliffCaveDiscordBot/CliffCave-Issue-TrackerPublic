@@ -41,4 +41,4 @@ Add any other context about the problem here.
 
 
 Do not change below this line: 
-@CliffCaveDiscordBot\developers
+@CliffCaveDiscordBot/developers
