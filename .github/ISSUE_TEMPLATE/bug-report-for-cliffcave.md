@@ -3,7 +3,7 @@ name: Bug Report for CliffCave
 about: Please create a report if you have experienced a bug relating to CliffCave.
 title: Bug Report - [What is the issue]
 labels: bug
-assignees: ''
+assignees: CliffCaveManagement
 
 ---
 
