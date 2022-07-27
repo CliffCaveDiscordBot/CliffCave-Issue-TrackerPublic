@@ -3,7 +3,7 @@ name: Bug Report for CliffCave
 about: Please create a report if you have experienced a bug relating to CliffCave.
 title: Bug Report - [What is the issue]
 labels: bug
-assignees: CliffCaveManagement
+assignees: ''
 
 ---
 
@@ -36,9 +36,3 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
-
-
-
-
-Do not change below this line: 
-@CliffCaveDiscordBot/developers
